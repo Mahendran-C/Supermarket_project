@@ -1,0 +1,21 @@
+                                                          PROJECT ON SUPERMARKET
+PERSONA 1:Requirements for the supermarket
+
+           Possible place for delivering
+           Discounts for regular customer
+           Comparing product price with another supermarket
+           Variety of products
+           Providing free samples
+           Changing location as per our wish
+           Payment methods
+           Collecting feedbacks 
+           Advertising in the social media
+
+PERSONA 2:Requirements for the customer
+
+           On time delivery of the products
+           Lowest price
+           Good quality products
+           Offers on new launched products
+           Good service from the delivery person
+           
