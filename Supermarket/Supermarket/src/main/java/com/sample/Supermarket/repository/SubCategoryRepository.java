@@ -1,0 +1,7 @@
+package com.sample.Supermarket.repository;
+
+import com.sample.Supermarket.model.SubCategory;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface SubCategoryRepository  extends JpaRepository<SubCategory, Integer> {
+}
